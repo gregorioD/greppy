@@ -1,2 +1,2 @@
 # greppy
-This is a small project to follow along with the book "The Rust programming language", in order to better understand its contents and internalize them through practice.
+This is a small project that i coded supporteb by the book "The Rust programming language", aimed at better comprehending the content and internalizing it through practice.
