@@ -1,3 +1,6 @@
 "The quick brown fox jumps over the lazy dog."
+"My email addresses are john@example.com and jane@example.com."
 "The quick black cat jumps over the lazy dog."
 "The quick white fox jumps over the lazy dog."
+"My email addresses are juanete@example.com"
+perro
